@@ -5,7 +5,7 @@
 <ul dir="auto">
 <li>📍 Based in Lebanon 🇱🇧</li>
 <li>📬 Reach me at: <a href="mailto:Rolahelbawi2002@gmail.com">Rolahelbawi2002@gmail.com</a></li>
-<li>💡 Currently exploring: cyber security, Node.Js, React, Game Development</li>
+<li>💡 Currently exploring: cyber security, springboot framework, Game Development</li>
 <li>🌟 Fun fact: I love blending creativity with code — whether through art, music, or game dev! </li>
 <li>🎨 Hobbies: 🎻🎹🏐🏀🐎🚲🎮</li>
 </ul>
