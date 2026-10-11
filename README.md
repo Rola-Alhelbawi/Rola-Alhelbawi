@@ -1,7 +1,9 @@
 <h1 align="center">✨ Hey there, I'm Rola! ✨</h1>  
 
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=D2686E&background=55FF0000&multiline=true&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Software+Engineer+" alt="Typing SVG" /></a>
+</p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=B1A93D&background=55FF0000&multiline=true&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Software+Engineer+" alt="Typing SVG" /></a>
 <ul dir="auto">
 <li>📍 Based in Lebanon 🇱🇧</li>
 <li>📬 Reach me at: <a href="mailto:Rolahelbawi2002@gmail.com">Rolahelbawi2002@gmail.com</a></li>
