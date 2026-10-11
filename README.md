@@ -7,7 +7,6 @@
 <li>📬 Reach me at: <a href="mailto:Rolahelbawi2002@gmail.com">Rolahelbawi2002@gmail.com</a></li>
 <li>💻 Focused on: Backend Development, Java, Spring Boot, and .NET</li>
 <li>💡 Interested in: Cyber Security, Robotics, Embedded Systems</li>
-<li>🌟 Fun fact: I love blending creativity with code — whether through art, music, or game dev! </li>
 <li>🎨 Hobbies: 🎻🎹🏐🏇🏂🥊🛼🧗‍♀️🥾🚲🧶🏺</li>
 </ul>
 
